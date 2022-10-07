@@ -1,0 +1,25 @@
+id,name,rank,weight,relevance,det
+T1518,Software Discovery,1,102,1,N/A
+T1566,Phishing,2,51,2,MDO
+T1110,Brute Force,3,38,1,MEMS;ME;AS;ESS
+T1078,Valid Accounts,4,38,2,AS;ESS
+T1114,Email Collection,5,16,2,AS;ESS
+T1087,Account Discovery,6,12,1,MEMS;ME
+T1098,Account Manipulation,7,10,2,MEMS;ME;ESS
+T1080,Taint Shared Content,8,10,2,ESS
+T1137,Office Application Startup,9,9,0,N/A
+T1069,Permission Groups Discovery,10,9,1,MEMS;ME;ESS
+T1539,Steal Web Session Cookie,11,9,2,N/A
+T1213,Data from Information Repositories,12,8,2,AS
+T1499,Endpoint Denial of Service,13,4,1,AS
+T1564,Hide Artifacts,14,3,2,ESS
+T1136,Create Account,15,2,2,AS;ESS
+T1534,Internal Spearphishing,16,2,2,AS
+T1498,Network Denial of Service,17,2,0,N/A
+T1550,Use Alternate Authentication Material,18,2,1,MEMS;ME;ESS
+T1606,Forge Web Credentials,19,1,2,N/A
+T1562,Impair Defenses,20,1,2,ESS
+T1528,Steal Application Access Token,21,1,2,N/A
+T1552,Unsecured Credentials,22,1,2,AS
+T1538,Cloud Service Dashboard,23,0,2,N/A
+T1526,Cloud Service Discovery,24,0,1,N/A
