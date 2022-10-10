@@ -1,0 +1,6 @@
+id,name,pricing,price,unit,complexity,lml
+MDO,Microsoft Defender for Office 365 Plan 1,2$/user/month,2,usermonth,1,0
+MEMS,Microsoft 365 Enterprise Mobility + Security E5,16.40$/user/month,16.4,usermonth,1,1
+ME,Microsoft 365 E5,57.00\$/user/month,57,usermonth,1,1
+AS,Azure Sentinel,max. 2.46$/GB,2.46,gb,1,1
+ESS,Elastic Security Solution,109$/month,109,month,3,1
